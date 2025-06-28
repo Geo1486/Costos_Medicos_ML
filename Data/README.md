@@ -2,7 +2,7 @@
 
 Nos permitimos entregar el trabajo correspondiente a la asignatura de Machine Learning, el cual incluye:
 
-1. Un documento en LaTeX con el proceso completo y documentado de:
+1. Un documento en LaTeX con el proceso completo y documentado de: https://www.overleaf.com/project/68422780a4397176655faebc
 
     1.1 Regresión lineal
 
