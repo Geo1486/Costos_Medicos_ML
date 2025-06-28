@@ -18,8 +18,8 @@ Quedamos atentos a cualquier observación o retroalimentación.
 
 Atentamente,
 
-# Óscar Andrés Guzmán
+#### Óscar Andrés Guzmán
 
-# Heidy Moreno 
+#### Heidy Moreno 
 
-# Jorge Jurado
+#### Jorge Jurado
