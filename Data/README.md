@@ -8,7 +8,7 @@ Nos permitimos entregar el trabajo correspondiente a la asignatura de Machine Le
 
     1.2 Regresión logística
    
-![image](https://github.com/user-attachments/assets/0f8ebac8-8047-4ae1-aae4-2cd0fea35e34)
+![image](https://github.com/user-attachments/assets/4ae57c2a-c352-4549-9052-7ac3191ec815)
 
 
 3. Ejercicio práctico de regresión lineal, aplicado a un conjunto de datos de ejemplo, con análisis exploratorio, visualización, entrenamiento del modelo y evaluación de métricas.
