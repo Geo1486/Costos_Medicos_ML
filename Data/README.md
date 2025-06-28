@@ -7,12 +7,15 @@ Nos permitimos entregar el trabajo correspondiente a la asignatura de Machine Le
     1.1 Regresión lineal
 
     1.2 Regresión logística
+   
+![image](https://github.com/user-attachments/assets/0f8ebac8-8047-4ae1-aae4-2cd0fea35e34)
 
-2. Ejercicio práctico de regresión lineal, aplicado a un conjunto de datos de ejemplo, con análisis exploratorio, visualización, entrenamiento del modelo y evaluación de métricas.
 
-3. Ejercicio práctico de regresión logística, enfocado en la predicción de una variable categórica binaria, incluyendo preparación de datos, modelado, validación y análisis de resultados.
+3. Ejercicio práctico de regresión lineal, aplicado a un conjunto de datos de ejemplo, con análisis exploratorio, visualización, entrenamiento del modelo y evaluación de métricas.
 
-4. Se adjuntan las bases de datos utilizadas en los ejercicios, debidamente organizadas para su revisión.
+4. Ejercicio práctico de regresión logística, enfocado en la predicción de una variable categórica binaria, incluyendo preparación de datos, modelado, validación y análisis de resultados.
+
+5. Se adjuntan las bases de datos utilizadas en los ejercicios, debidamente organizadas para su revisión.
 
 Quedamos atentos a cualquier observación o retroalimentación.
 
