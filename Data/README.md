@@ -1,11 +1,22 @@
-# ETL DataLake ETLMasacres en Colombia
+## Estimado Docente Dámaso
 
-Diseño Data Lake Masacres en Colombia
+Nos permitimos entregar el trabajo correspondiente a la asignatura de Machine Learning, el cual incluye:
 
-Antes de implementar el flujo en una herramienta de integración como KNIME, se realizó un procesamiento inicial en Python, con el objetivo de garantizar la calidad de los datos. Este paso incluyó:
+1. Un documento en LaTeX con el proceso completo y documentado de:
 
-1.  Carga del archivo original (CSV)
-2. Lectura del archivo descargado desde Datos Abiertos Colombia usando pandas.
-3. Estadísticas descriptivas: conteo de eventos por año, promedio de víctimas por masacre, distribución regional.
+    1.1 Regresión lineal
 
-![Diseño](Preprocessing_Cleaning.png)
+    1.2 Regresión logística
+
+2. Ejercicio práctico de regresión lineal, aplicado a un conjunto de datos de ejemplo, con análisis exploratorio, visualización, entrenamiento del modelo y evaluación de métricas.
+
+3. Ejercicio práctico de regresión logística, enfocado en la predicción de una variable categórica binaria, incluyendo preparación de datos, modelado, validación y análisis de resultados.
+
+4. Se adjuntan las bases de datos utilizadas en los ejercicios, debidamente organizadas para su revisión.
+
+Quedamos atentos a cualquier observación o retroalimentación.
+
+Atentamente,
+Óscar Andrés Guzmán
+Heidy Moreno 
+Jorge Juraoo
