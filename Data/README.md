@@ -17,6 +17,9 @@ Nos permitimos entregar el trabajo correspondiente a la asignatura de Machine Le
 Quedamos atentos a cualquier observación o retroalimentación.
 
 Atentamente,
+
 Óscar Andrés Guzmán
+
 Heidy Moreno 
+
 Jorge Juraoo
